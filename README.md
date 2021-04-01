@@ -7,4 +7,4 @@ Prerequisites:
 
 For Message Outbox sample, please download and install [MongoDB](https://www.mongodb.com/try/download/community).
 
-More information about these examples can be found in this article: https://medium.com/@viktors.telle/reliable-messaging-architecture-part-1-c3d31c61b958
+More information about these examples can be found in this article: https://medium.datadriveninvestor.com/4-approaches-on-how-to-create-reliable-messaging-architecture-4aefcfc13cfd
